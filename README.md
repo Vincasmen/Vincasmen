@@ -4,6 +4,8 @@ Hello,
 🏙️Brno
 🔞29
 
+[![@vincasmen's Holopin board](https://holopin.me/vincasmen)](https://holopin.io/@vincasmen)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
